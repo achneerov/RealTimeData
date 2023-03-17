@@ -1,0 +1,1 @@
+if first value is 10, avg of everything in list 10.1, that is an upwards movement.
